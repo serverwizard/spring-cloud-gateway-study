@@ -1,0 +1,4 @@
+rootProject.name = 'spring-cloud-gateway'
+include 'sw-gateway'
+include 'sw-internal-api'
+
